@@ -1,0 +1,39 @@
+{
+  "title": "animatic 01 · the brett shaw sci-fi cycle (shaw-ciklus) — the zero-sign hood to planet rose (0:00–3:00)",
+  "note": "Seated 2026-10-26 via ULTRA-CREATE. Boards correspond to Books I–V of the Shaw-ciklus and manga pass 01 (pages 1–9). Carrier: 22/9 Hz LOVELOVEL + 432x528x639 Hz Triangle Triad.",
+  "audio": [
+    "projects/01.01-sandbox-in-the-shell/assets/sound/animatic-01-temp/four-four-122.wav"
+  ],
+  "boards": [
+    {
+      "board": "I.1",
+      "hold": 30,
+      "plate": "projects/01.06-brett-shaw-sci-fi-cycle/assets/plates/cover-brett-shaw-cycle.svg",
+      "action": "Book I · Hogyan legyünk Sherlock Holmes? — Eklon locked-vault deduction; young Brett steps outside the ruled imperial etiquette cage (.oOo. Poo .oOo.)."
+    },
+    {
+      "board": "II.1",
+      "hold": 36,
+      "plate": "projects/01.06-brett-shaw-sci-fi-cycle/assets/plates/plate-02-alef-osztag-fire-pair.svg",
+      "action": "Book II · Ópiumkeringő — Brett Shaw (Tipheret · 0) and Paul Wittgen (Chokmah · +1) clear the Roxolán dock in wordless telepathic synchrony; aftermath of the Roxoláni Gyöngyszem."
+    },
+    {
+      "board": "III.1",
+      "hold": 42,
+      "plate": "projects/01.06-brett-shaw-sci-fi-cycle/assets/plates/plate-01-csuklyamodul-zero-sign.svg",
+      "action": "Book III · A Démoncsászár fejvadászai — Halmer (2668): uncollapsed csuklyamodul inverts the zero-sign zone; Wittgen walks in unarmed; IV. von Anstetten descends to re-bind Wittgen's luminous white soul cocoon."
+    },
+    {
+      "board": "IV.1",
+      "hold": 36,
+      "plate": "projects/01.06-brett-shaw-sci-fi-cycle/assets/plates/plate-03-throne-0c-gyemantsziv.svg",
+      "action": "Book IV · Hosszú az út a trónig, bébi & A Korona hatalma — El-Nath pardon in the 0 °C beryllium-agate throne room; Peter Shaw ('Gyémántszív') calls the Emperor 'barátom'."
+    },
+    {
+      "board": "V.1",
+      "hold": 36,
+      "plate": "projects/01.06-brett-shaw-sci-fi-cycle/assets/plates/plate-04-bolygorozsa-golden-dragon.svg",
+      "action": "Book V · Praetoriánus & Minden bolygón jártam már — Aboard the unarmed 1-km cryolite-glass Bolygórózsa (2674), Empress V. von Anstetten (Caroline-Blindamoor) and resurrected Paul Wittgen reach out to Brett Shaw ({<3,<3,<3}+1)."
+    }
+  ]
+}

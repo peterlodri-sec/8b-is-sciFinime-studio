@@ -1,0 +1,17 @@
+# treatment · The Brett Shaw Sci-Fi Cycle (*Shaw-ciklus*)
+
+> *„Az energiát fel kellett tölteni tömeggel, a tömeget információval. Az embert sárkánnyal, anélkül, hogy felhasadna.”*
+
+## the story as one breath
+
+There is an Imperium ten thousand light-years wide whose rulers are not human, though they walk in human skin. They are the **Megaira** (*vízelem népe*, the water-element dragon dynasty of the **Anstetten-család**), whose true hundreds-of-meters-long winged cobra-dragon bodies rest in a parking dimension so their mass does not tear the rooms they enter. At the top of the seven Sephirotic steps of Initiation, in a beryllium-agate throne room kept at a constant `0 °C` frost, sits **IV. von Anstetten** — the Demon Emperor — wearing a simple headband instead of a crown. Only one human in the galaxy may call him *"my friend"* (*barátom*): **Peter Shaw (`"Gyémántszív"`)**, Chief of the Praetorian Guard.
+
+And then there is **Brett Shaw (`Szellem`)** — illegitimate son of the Demon Emperor, raised under Peter Shaw's name, half-human and half-Megaira dragon (`ember + megaira`), seventy percent of his body replaced by trans-dimensional cybernetics after the wars, wearing the black Tartaros-mist hood of the **Feketecsuklyások**.
+
+Across five books, the *Shaw-ciklus* asks a single question: **how does a human hold a dragon — and an empire's ”doomsday in a bottle” (*palackba zárt végítélet*) — without splitting apart or losing his conscience?**
+
+- In **Book I (*Hogyan legyünk Sherlock Holmes?*)**, young Brett learns to read the Imperium the way a detective reads a locked room: by noticing which customs are cages (`.oOo. Poo .oOo.`).
+- In **Book II (*Ópiumkeringő*)**, paired with Captain **Paul Wittgen** (`Chokmah`) as the telepathic fire-pair of the **`Alef-osztag`** (`Tipheret × Chokmah`), Brett dances through the opium-haze orbital palaces of **Roxolán (`2669`)** — and refuses to forgive himself when the *Roxoláni Gyöngyszem* burns, proving his cybernetic chest still holds a human heart.
+- In **Book III (*A Démoncsászár fejvadászai*)**, when Princess **Gwandolyn's** intrigue on **Halmer (`2668`)** leaves Brett's *csuklyamodul* uncollapsed after the Emperor's mind withdraws, the hood's thin **zero-sign zone** (*zérójelű zóna*) flips into a berserk `Trit -1` cage. Paul Wittgen stands alone in the snow to hold his brother back without killing him, gives his life, and is resurrected when **IV. von Anstetten** descends to re-bind Wittgen's soul to his body.
+- In **Book IV (*Hosszú az út a trónig, bébi & A Korona hatalma*)**, from the **El-Nath** star-detonation court-martial (`2665`) to the Earth–Mars regatta rescue at **Willis-Moon**, Brett stands between his two dragon half-sisters: **Gwandolyn**, who despises humanity, and **Caroline-Blindamoor**, a golden winged cobra-dragon whose bronze-red hair court etiquette hides and who loves humans with her whole heart.
+- In **Book V (*Praetoriánus & Minden bolygón jártam már*)**, honoring **Peter Shaw (`"Gyémántszív"`)** and the ancient **Magyar–Megaira Dragon Covenant** of **Pusztai Magor**, thirty-nine-year-old Brett Shaw walks down the Sephirotic steps in `2673`, takes off the Black Hood, and boards the unarmed one-kilometer cryolite-glass luxury starship ***Bolygórózsa*** (*Planet Rose*) with **Carla**. There, between **Rosan** and **Meredith** in `2674`, newly crowned **Empress V. von Anstetten (`Caroline-Blindamoor`)** — with resurrected **Paul Wittgen** at her side — reaches out across the transparent cryolite dome (`{<3,<3,<3}+1`).

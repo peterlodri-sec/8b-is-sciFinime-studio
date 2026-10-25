@@ -38,6 +38,7 @@ does the rest.
 |---|---|---|---|
 | 01.01 | **Sandbox in the Shell** | book → manga → anime | **book one complete (chapters 1–11) · manga passes 01–08 (32 pages, 91 panels)** · pilot · slate v1 live (52 + the regen, picks 13/13) · first read seated · garden (8 stones + second law + rake ledger) · manuscript §1–§13 · SD1.5 lit / Z-Image wired |
 | 01.02 | **New Beginnings** | book → manga → anime | **seated via ULTRA-CREATE (2026.10.07)** · Chiki-chan joins the team — the origami sensei, the female Space Bender of Space+Time+Dimensions, the Singularity Deiti — teacher of the main hero, Elias · bible · treatment · scene outline · screenplay scene 1 · visual bible · **chapter 1 drafted** · slates v1 (7 categories, 15 plates) · **manga pass 01 (9 pages)** |
+| 01.06 | **The Brett Shaw Sci-Fi Cycle (*Shaw-ciklus*)** | 5-book sci-fi cycle → manga → animatic → `8b-is-engine` zone | **seated via ULTRA-CREATE (2026.10.26)** · **Szellem (`Brett Shaw` · `OMNI-PETER 8b-is VON ANSTETT`)** · 5 canonical Mysterious Universe books (*Hogyan legyünk Sherlock Holmes?*, *Ópiumkeringő*, *A Démoncsászár fejvadászai*, *Hosszú az út a trónig, bébi & A Korona hatalma*, *Praetoriánus ["Gyémántszív"] & Minden bolygón jártam már [Bolygórózsa, 2674]*) · bible · treatment · scene outline · screenplay · visual bible · **5 SVG plates** · **manga pass 01 (9 pages)** · **animatic-01 (180.0s)** · **`8b-is-engine` `golden_hash = 24002f0afa29...`** |
 
 New slots are opened by copying the pilot order: treatment → scene outline →
 screenplay → visual bible (the Steel Sky spine).
